@@ -1,0 +1,7 @@
+
+### Step 5: Create `requirements.txt`
+
+```plaintext
+pandas
+scikit-learn
+joblib
